@@ -1,4 +1,4 @@
 # Privia Security '20 | Sunum Dosyaları 
 
-Efdal İncesu | Gulp, SASS
-Muhammet Mert Polat | Ruby Syntax Yapısı
+- 04.09.2020 - Efdal İncesu | Gulp, SASS
+- 04.09.2020 - Muhammet Mert Polat | Ruby Syntax Yapısı
